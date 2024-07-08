@@ -26,6 +26,6 @@ Langkah-langkah Penggunaan
 7. Jalankan atau Run File detection.py
    Jalankan script Python detection.py untuk mendeteksi objek dari gambar yang diambil oleh ESP32-CAM
 
-#### Untuk tutorial dalam bentuk video dapat dilihat di
+#### Untuk tutorial dalam bentuk video dapat dilihat di video berikut ini
 
 [![ESP32 Cam Tutorial](https://img.youtube.com/vi/llEWoaSOo_U/0.jpg)](https://youtu.be/llEWoaSOo_U "Click to Watch!")
